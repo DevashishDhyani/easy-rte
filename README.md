@@ -307,4 +307,5 @@ Running this example will show that the robot eventually drives its way to the d
 Extra commands (if needed)
 
 go get github.com/PRETgroup/goFB/goFB
+
 go build -o easy-rte-c -i ./rtec/main
